@@ -1,2 +1,2 @@
-# calculadoracsharp
-calculadora em c# com winforms
+# calculadora
+calculadora com winforms
